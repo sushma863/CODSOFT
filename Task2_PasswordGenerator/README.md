@@ -29,3 +29,16 @@ password_generator_gui/
 
 ```bash
 python main.py
+```
+#  How to Run the Project
+
+## Step 1: Install Python
+
+Download Python from:  
+[python.org](https://reference-url-citation.invalid/1)
+
+## Step 2: Create Project Folder
+
+```text id="9um93m"
+password_generator_gui/
+```
