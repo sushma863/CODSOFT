@@ -44,5 +44,5 @@ password_generator_gui/
 ```
 ## Step 3: Run Application
 Open terminal inside project folder:
-Bash
+
 python main.py
