@@ -39,9 +39,11 @@ Open terminal inside project folder:
 pip install -r requirements.txt
 ```
 ##Step 3: Run the Application
+
 python app.py
 
 ##Step 4: Open in browser
+
 Visit:
 
 http://127.0.0.1:5000
