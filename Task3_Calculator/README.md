@@ -20,7 +20,7 @@ A web-based calculator application using Flask.
 
 ```bash
 pip install -r requirements.txt
-
+---
 ## Run application
 python app.py
 
