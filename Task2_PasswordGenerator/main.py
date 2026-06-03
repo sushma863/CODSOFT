@@ -13,7 +13,7 @@ def generate():
 
         password_entry.config(state="normal")
         password_entry.delete(0, tk.END)
-        password_entry.insert(0, password)
+        password_entry.insert(0, password) 
         password_entry.config(state="readonly")
 
     except ValueError:
